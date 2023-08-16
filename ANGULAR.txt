@@ -1,4 +1,4 @@
-
+I LOVE ANGULAR
 to run in brwoser= ng serve --o
 
   constracor to move anotherpage=
@@ -7,3 +7,4 @@ constructor (private rout:Router){}
       return this.rout.navigateByUrl("mainlayout")
 
 new component=
+
