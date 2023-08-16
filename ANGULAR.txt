@@ -1,0 +1,9 @@
+
+to run in brwoser= ng serve --o
+
+  constracor to move anotherpage=
+constructor (private rout:Router){}
+    onmain(){
+      return this.rout.navigateByUrl("mainlayout")
+
+new component=
