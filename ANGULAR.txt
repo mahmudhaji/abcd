@@ -8,3 +8,4 @@ constructor (private rout:Router){}
 
 new component=
 
+npm install bootstrap jquery popper.js --save
