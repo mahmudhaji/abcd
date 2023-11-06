@@ -8,4 +8,5 @@ constructor (private rout:Router){}
 
 new component=
 
+ng generate @angular/material:navigation layouts/MainLayout
 npm install bootstrap jquery popper.js --save
